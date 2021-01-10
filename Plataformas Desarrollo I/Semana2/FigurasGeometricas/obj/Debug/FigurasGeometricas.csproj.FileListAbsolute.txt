@@ -1,0 +1,10 @@
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe.config
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricas\obj\Debug\FigurasGeometricas.csprojAssemblyReference.cache
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricas\obj\Debug\FigurasGeometricas.Form1.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricas\obj\Debug\FigurasGeometricas.Properties.Resources.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.GenerateResource.cache
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.CoreCompileInputs.cache
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricas\obj\Debug\FigurasGeometricas.exe
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb

@@ -1,9 +1,0 @@
-D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricos\bin\Debug\FigurasGeometricos.exe
-D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricos\bin\Debug\FigurasGeometricos.exe.config
-D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricos\obj\Debug\FigurasGeometricos.csprojAssemblyReference.cache
-D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricos\obj\Debug\FigurasGeometricos.Form1.resources
-D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricos\obj\Debug\FigurasGeometricos.Properties.Resources.resources
-D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricos\obj\Debug\FigurasGeometricos.csproj.GenerateResource.cache
-D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricos\obj\Debug\FigurasGeometricos.csproj.CoreCompileInputs.cache
-D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricos\obj\Debug\FigurasGeometricos.exe
-D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana2\FigurasGeometricos\obj\Debug\FigurasGeometricos.pdb

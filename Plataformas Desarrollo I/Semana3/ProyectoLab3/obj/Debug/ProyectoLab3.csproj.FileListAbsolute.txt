@@ -1,0 +1,10 @@
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana3\ProyectoLab3\bin\Debug\ProyectoLab3.exe.config
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana3\ProyectoLab3\bin\Debug\ProyectoLab3.exe
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana3\ProyectoLab3\bin\Debug\ProyectoLab3.pdb
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana3\ProyectoLab3\obj\Debug\ProyectoLab3.csprojAssemblyReference.cache
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana3\ProyectoLab3\obj\Debug\ProyectoLab3.Form1.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana3\ProyectoLab3\obj\Debug\ProyectoLab3.Properties.Resources.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana3\ProyectoLab3\obj\Debug\ProyectoLab3.csproj.GenerateResource.cache
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana3\ProyectoLab3\obj\Debug\ProyectoLab3.csproj.CoreCompileInputs.cache
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana3\ProyectoLab3\obj\Debug\ProyectoLab3.exe
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana3\ProyectoLab3\obj\Debug\ProyectoLab3.pdb
