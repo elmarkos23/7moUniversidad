@@ -1,0 +1,10 @@
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana5\ProyectoTarea5\obj\Debug\ProyectoTarea5.csprojAssemblyReference.cache
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana5\ProyectoTarea5\obj\Debug\ProyectoTarea5.Form1.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana5\ProyectoTarea5\obj\Debug\ProyectoTarea5.Properties.Resources.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana5\ProyectoTarea5\obj\Debug\ProyectoTarea5.csproj.GenerateResource.cache
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana5\ProyectoTarea5\obj\Debug\ProyectoTarea5.csproj.CoreCompileInputs.cache
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana5\ProyectoTarea5\bin\Debug\ProyectoTarea5.exe.config
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana5\ProyectoTarea5\bin\Debug\ProyectoTarea5.exe
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana5\ProyectoTarea5\bin\Debug\ProyectoTarea5.pdb
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana5\ProyectoTarea5\obj\Debug\ProyectoTarea5.exe
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana5\ProyectoTarea5\obj\Debug\ProyectoTarea5.pdb
