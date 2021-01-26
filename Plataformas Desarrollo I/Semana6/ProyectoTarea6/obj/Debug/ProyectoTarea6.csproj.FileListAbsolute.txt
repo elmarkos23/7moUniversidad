@@ -1,0 +1,14 @@
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana6\ProyectoTarea6\bin\Debug\ProyectoTarea6.exe.config
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana6\ProyectoTarea6\bin\Debug\ProyectoTarea6.exe
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana6\ProyectoTarea6\bin\Debug\ProyectoTarea6.pdb
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana6\ProyectoTarea6\obj\Debug\ProyectoTarea6.csprojAssemblyReference.cache
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana6\ProyectoTarea6\obj\Debug\ProyectoTarea6.Form1.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana6\ProyectoTarea6\obj\Debug\ProyectoTarea6.Properties.Resources.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana6\ProyectoTarea6\obj\Debug\ProyectoTarea6.csproj.GenerateResource.cache
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana6\ProyectoTarea6\obj\Debug\ProyectoTarea6.csproj.CoreCompileInputs.cache
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana6\ProyectoTarea6\obj\Debug\ProyectoTarea6.exe
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana6\ProyectoTarea6\obj\Debug\ProyectoTarea6.pdb
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana6\ProyectoTarea6\obj\Debug\ProyectoTarea6.FormEstudiantes.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana6\ProyectoTarea6\obj\Debug\ProyectoTarea6.FormRegistroAsistencia.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana6\ProyectoTarea6\obj\Debug\ProyectoTarea6.FormResumenAsistencia.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana6\ProyectoTarea6\obj\Debug\ProyectoTarea6.FromHorario.resources
