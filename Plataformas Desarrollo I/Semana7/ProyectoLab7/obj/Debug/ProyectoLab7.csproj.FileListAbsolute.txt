@@ -1,0 +1,7 @@
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoLab7\obj\Debug\ProyectoLab7.Form1.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoLab7\obj\Debug\ProyectoLab7.FrmReporte.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoLab7\obj\Debug\ProyectoLab7.Properties.Resources.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoLab7\obj\Debug\ProyectoLab7.csproj.GenerateResource.cache
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoLab7\obj\Debug\RdlCompile.cache
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoLab7\obj\Debug\RdlCompile.compiled
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoLab7\obj\Debug\ProyectoLab7.csproj.CoreCompileInputs.cache
