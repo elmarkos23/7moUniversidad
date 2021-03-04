@@ -1,0 +1,15 @@
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoTarea7\bin\Debug\ProyectoTarea7.exe.config
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoTarea7\bin\Debug\ProyectoTarea7.exe
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoTarea7\bin\Debug\ProyectoTarea7.pdb
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoTarea7\obj\Debug\ProyectoTarea7.Form1.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoTarea7\obj\Debug\ProyectoTarea7.Properties.Resources.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoTarea7\obj\Debug\ProyectoTarea7.csproj.GenerateResource.cache
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoTarea7\obj\Debug\ProyectoTarea7.csproj.CoreCompileInputs.cache
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoTarea7\obj\Debug\ProyectoTarea7.exe
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoTarea7\obj\Debug\ProyectoTarea7.pdb
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoTarea7\obj\Debug\ProyectoTarea7.FormMenu.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoTarea7\obj\Debug\ProyectoTarea7.FormActividad.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoTarea7\obj\Debug\ProyectoTarea7.FormAsignacionEstudiante.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoTarea7\obj\Debug\ProyectoTarea7.FormEstudiante.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoTarea7\obj\Debug\ProyectoTarea7.FormTutor.resources
+D:\GitHub\7moUniversidad\Plataformas Desarrollo I\Semana7\ProyectoTarea7\obj\Debug\ProyectoTarea7.csprojAssemblyReference.cache
